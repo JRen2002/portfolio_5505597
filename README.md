@@ -1,5 +1,7 @@
 # portfolio_5505597
-WK_1210 Entwicklung grafischer Bedienoberflächen (SS24)
+Name : Jonas Renner ; Email: j.ren44qq@gmail.com
+WK_1210 Entwicklung grafischer 
+Bedienoberflächen (SS24)
 
 Projekttitel: Entwicklung einer persönlichen Portfolio-App mit Flutter und Hosting auf Google Firebase
 
