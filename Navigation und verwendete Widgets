@@ -1,0 +1,12 @@
+Dokumentation zur Navigation und verwendeten Widgets in der Portfolio-App
+Navigation: 
+Durch die MaterialApp Klasse wird eine Startseite gesetzt und die Routen der Navigation. Das Drawer Widgets ermöglicht 
+das Wechseln der Seiten.
+Verwendete Widgets: 
+Scaffold: Grundgerüst jeder Seite mit AppBar, Drawer und Body-Bereich.
+AppBar: Zeigt den Titel der aktuellen Seite an.
+Drawer: Seitliche Navigationsleiste zum Wechseln zwischen den Seiten.
+ListView: Scrollbare Liste zur Strukturierung der Inhalte.
+Card: Material Design Card zur ansprechenden Darstellung von Informationen.
+ListTile: Einzelne Elemente in Listen, verwendet im Drawer und in Cards.
+Text: Darstellung von Texten.
